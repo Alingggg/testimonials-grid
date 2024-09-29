@@ -92,6 +92,7 @@ main {
 
         &:nth-child(3) {
             grid-area: 2 / 1 / span 1 / span 1;
+            background-color: white;
             color: $very-dark-grayish-blue;
         }
 
@@ -103,6 +104,7 @@ main {
 
         &:nth-child(5) {
             grid-area: 1 / 4 / span 2 / span 1;
+            background-color: white;
             color: $very-dark-grayish-blue;
         }
     }
